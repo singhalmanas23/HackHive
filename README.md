@@ -149,7 +149,7 @@ $ git pull upstream main
 
 ## Design
 
-<!-- - The Prospective design of this project is here [HackHive](https://www.figma.com/file/lTsgJbWw8MRxWLa3c0PwWh/Blog-Project?type=design&node-id=0%3A1&t=9fkc7cb59hN4TlHW-1) -->
+The Prospective design of this project is here [HackHive](https://www.figma.com/file/Ak0vaM2cMhqIWBzgkU8BmE/Untitled?type=design&node-id=0%3A1&mode=design&t=GzaRlGrkVNpEdTId-1)
 
 ## Resources
 
