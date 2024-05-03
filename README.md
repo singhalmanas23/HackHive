@@ -8,6 +8,12 @@
 
 ## HackHive
 
+HackHive is a comprehensive collection of hackathons categorized by tech domains, languages, expertise, and much more. With a user-friendly interface, users can easily find hackathons tailored to their interests, whether they're seasoned developers looking for the next challenge or beginners eager to dive into the world of coding.
+
+What sets HackHive apart is its commitment to keeping users informed. The website scrapes hackathon details from various sources across the web, ensuring that users have access to the most comprehensive and up-to-date information available.
+
+<br>
+
 [![Issues](https://img.shields.io/github/issues/DSC-JSS-NOIDA/HackHive)](https://github.com/DSC-JSS-NOIDA/HackHive/issues)
 [![PRs](https://img.shields.io/github/issues-pr/DSC-JSS-NOIDA/HackHive)](https://github.com/DSC-JSS-NOIDA/HackHive/pulls)
 [![Maintenance](https://img.shields.io/maintenance/yes/2023?color=green&logo=github)](https://github.com/DSC-JSS-NOIDA/)
