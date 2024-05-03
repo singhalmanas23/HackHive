@@ -11,7 +11,10 @@
 [![Issues](https://img.shields.io/github/issues/DSC-JSS-NOIDA/HackHive)](https://github.com/DSC-JSS-NOIDA/HackHive/issues)
 [![PRs](https://img.shields.io/github/issues-pr/DSC-JSS-NOIDA/HackHive)](https://github.com/DSC-JSS-NOIDA/HackHive/pulls)
 [![Maintenance](https://img.shields.io/maintenance/yes/2023?color=green&logo=github)](https://github.com/DSC-JSS-NOIDA/)
-[![Forks](https://img.shields.io/github/forks/DSC-JSS-NOIDA?style=social)](https://github.com/DSC-JSS-NOIDA) [![Stars](https://img.shields.io/github/stars/DSC-JSS-NOIDA?style=social)](https://github.com/DSC-JSS-NOIDA) [![Watchers](https://img.shields.io/github/watchers/DSC-JSS-NOIDA?style=social)](https://github.com/DSC-JSS-NOIDA) [![Twitter Follow](https://img.shields.io/twitter/follow/DSCJSSATEN?style=social)](https://twitter.com/DSCJSSATEN)
+[![Forks](https://img.shields.io/github/forks/DSC-JSS-NOIDA/HackHive?style=social)](https://github.com/DSC-JSS-NOIDA/HackHive) 
+[![Stars](https://img.shields.io/github/stars/DSC-JSS-NOIDA/HackHive?style=social)](https://github.com/DSC-JSS-NOIDA/HackHive) 
+[![Watchers](https://img.shields.io/github/watchers/DSC-JSS-NOIDA/HackHive?style=social)](https://github.com/DSC-JSS-NOIDA/HackHive)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/DSCJSSATEN?style=social)](https://twitter.com/DSCJSSATEN)
 
 <!-- A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, within a click! -->
 
@@ -78,7 +81,7 @@ $ cd HackHive
 ```
 
 - Make Changes to code<br>
-- Push to your fork of the repository , navigate to original repository and make a pull request.<br>
+- Push to your fork of the repository , navigate to original repository and make a pull request.<be>
 
 <strong>Backend</strong>
 
