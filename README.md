@@ -49,7 +49,7 @@ What sets HackHive apart is its commitment to keeping users informed. The websit
 - **IDE**: VS Code
 - **Version Control**: Git and GitHub
 - **Database**: MongoDb
-- **Hosting**: Render, Netlify
+- **Hosting**: Render, Vercel
 
   <br>
 
