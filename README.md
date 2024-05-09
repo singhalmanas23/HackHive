@@ -15,6 +15,7 @@ What sets HackHive apart is its commitment to keeping users informed. The websit
 <br>
 
 Figma Link for the design file : https://www.figma.com/design/9HzyqaEl4SXVY4iZIA0SFp/HackHive
+<br>
 Deployed Link : https://hackhive-gssoc.netlify.app/
 
 [![Issues](https://img.shields.io/github/issues/DSC-JSS-NOIDA/HackHive)](https://github.com/DSC-JSS-NOIDA/HackHive/issues)
