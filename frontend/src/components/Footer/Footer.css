@@ -1,4 +1,4 @@
-/* .footer{
+.footer{
     height: 25vw;
     margin-top: 4vw;
     background: rgba(59, 134, 255, 0.20);
@@ -64,5 +64,18 @@ line-height: normal;
 letter-spacing: 0.54px;
 margin: 0.5vw 0;
 gap: 9px;
-} */
-
+} 
+.social-icon-container {
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .social-icon-container:hover {
+    transform: scale(1.1); /* Increase the size of the icon on hover */
+  }
+  
+  .social-icon {
+    width: 3rem;
+    height: 3rem;
+  }
+  
