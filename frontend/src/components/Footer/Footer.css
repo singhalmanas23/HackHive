@@ -1,11 +1,11 @@
-.footer{
+/* .footer{
     height: 25vw;
     margin-top: 4vw;
     background: rgba(59, 134, 255, 0.20);
     display: flex;
 }
 .left h1{
-    color: #000;
+color: #000;
 font-family: "Nunito Sans";
 font-size: 40px;
 font-style: normal;
@@ -14,7 +14,6 @@ line-height: normal;
 letter-spacing: 1.44px;
 width: 35vw;
 margin: 2vw 0;
-
 }
 .left{
     position: relative;
@@ -55,7 +54,8 @@ letter-spacing: 0.54px;
 margin-bottom: 1vw;
 }
 .options p{
-    color: #000;
+display: flex;
+color: #000;
 font-family: "Nunito Sans";
 font-size: 18px;
 font-style: normal;
@@ -63,5 +63,6 @@ font-weight: 400;
 line-height: normal;
 letter-spacing: 0.54px;
 margin: 0.5vw 0;
-}
+gap: 9px;
+} */
 

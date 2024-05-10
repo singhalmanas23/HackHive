@@ -20,7 +20,8 @@ export default function HackathonCard() {
 
   return (
     <div className="flex flex-wrap justify-center items-center p-10">
-      {hackathons.map((hackathon) => (
+      {Array.isArray(hackathons) && hackathons.map((hackathon) => 
+      (
         <div className="p-10 w-[45vw] flex" key={hackathon.id}>
           {/* Image */}
           <div className="flex items-center w-[40%]">
@@ -84,7 +85,8 @@ export default function HackathonCard() {
             </a>
           </div>
         </div>
-      ))}
+      ) , null
+      )}
     </div>
   );
 }

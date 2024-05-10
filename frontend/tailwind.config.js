@@ -5,6 +5,8 @@ export default {
     extend: {
       backgroundImage: {
         "custom-background": "url('/src/assets/loginBackground.svg')",
+      },fontFamily: {
+        'sans': ['Nunito Sans', 'sans-serif'],
       },
     },
   },
