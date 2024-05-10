@@ -21,7 +21,7 @@ const FeaturedHackathons = () => {
 
   return (
     <div className="flex flex-wrap justify-center items-center p-10">
-      {hackathons.map((hackathon) =>
+       {Array.isArray(hackathons) && hackathons.map((hackathon) =>
         hackathon.featured == true ? (
           <div className="p-10 w-[45vw] flex" key={hackathon._id}>
             {/* Image */}
