@@ -1,5 +1,4 @@
 import React from "react";
-import "./Footer.css";
 import logo from "../../assets/logo.svg";
 import copyright from "../../assets/copyright_icon.svg";
 import insta from "../../assets/instagram_icon.svg";
@@ -12,7 +11,7 @@ export default function Footer() {
   return (
     <div className="flex flex-wrap justify-between h-1/4 pt-8 bg-blue-400 bg-opacity-20">
       <div className="left relative left-16 mb-20 flex flex-col space-y-4">
-        <div className="">
+        <div>
           <a href="">
             <img src={logo} alt="" />
           </a>
@@ -29,21 +28,21 @@ export default function Footer() {
             Elevating <span className="text-orange-400">Software</span>.
           </h1>
         </div>
-        <div className="flex items-center space-x-2">
-          <a href="" className="social-icon-container">
-            <img src={insta} alt="" className="w-9 h-9 social-icon" />
+        <div className="flex items-center space-x-4">
+          <a href="#" className="inline-flex items-center justify-center w-12 h-12 bg-white rounded-full ring-1 ring-slate-900/5 shadow-lg hover:bg-blue-400 hover:bg-blue-400">
+            <img src={insta} alt="" className="w-9 h-9" />
           </a>
-          <a href="" className="social-icon-container">
-            <img src={linkedin} alt="" className="w-9 h-9 social-icon" />
+          <a href="#" className="inline-flex items-center justify-center w-12 h-12 bg-white rounded-full ring-1 ring-slate-900/5 shadow-lg hover:bg-sky-500 hover:ring-sky-500">
+            <img src={linkedin} alt="" className="w-9 h-9" />
           </a>
-          <a href="" className="social-icon-container">
-            <img src={whatsapp} alt="" className="w-9 h-9 social-icon" />
+          <a href="#" className="inline-flex items-center justify-center w-12 h-12 bg-white rounded-full ring-1 ring-slate-900/5 shadow-lg hover:bg-sky-500 hover:ring-sky-500">
+            <img src={whatsapp} alt="" className="w-9 h-9" />
           </a>
-          <a href="" className="social-icon-container">
-            <img src={facebook} alt="" className="w-9 h-9 social-icon" />
+          <a href="#" className="inline-flex items-center justify-center w-12 h-12 bg-white rounded-full ring-1 ring-slate-900/5 shadow-lg hover:bg-sky-500 hover:ring-sky-500">
+            <img src={facebook} alt="" className="w-9 h-9" />
           </a>
-          <a href="" className="social-icon-container">
-            <img src={twitter} alt="" className="w-9 h-9 social-icon" />
+          <a href="#" className="inline-flex items-center justify-center w-12 h-12 bg-white rounded-full ring-1 ring-slate-900/5 shadow-lg hover:bg-sky-500 hover:ring-sky-500">
+            <img src={twitter} alt="" className="w-9 h-9" />
           </a>
         </div>
       </div>
